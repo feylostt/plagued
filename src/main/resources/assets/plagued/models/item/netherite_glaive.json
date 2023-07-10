@@ -1,0 +1,6 @@
+{
+	"parent": "plagued:item/big_handheld",
+	"textures": {
+		"layer0": "plagued:item/netherite_glaive"
+	}
+}
